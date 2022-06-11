@@ -8,7 +8,7 @@
 
     2) Leer PDF Primera práctica con VS COde y Github
     
-    3) Instalar Git siguiendo el .pptx llamado "Git Github basico" *Pueden utilizar windows o linux*
+    3) Instalar Git siguiendo el .pptx llamado "Git Github basico" *Pueden utilizar windows, Mac o linux*
 
     2) Seguir la guia de trabajo "Situación profesional 1 - Proyecto en equipo", y realizar la actividad
      asignada. (cada integrante subira su correspondiente ejercicio individual).
