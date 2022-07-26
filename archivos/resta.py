@@ -1,7 +1,5 @@
-def resta(a,b):
-    resta=a-b
-    resta2=b-a
-    if (resta<=0):
-        print(resta)
-    else:
-        print(resta2)
+from ing2i import ing2i
+
+def suma(a,b):
+    restar=a-b
+    return restar
